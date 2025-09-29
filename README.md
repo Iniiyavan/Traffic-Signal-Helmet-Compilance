@@ -55,13 +55,9 @@ It ensures:
 
 ## 🖥️ Projects & Contact
 [**Haemocross**](https://github.com/Iniiyavan/HaemoCross/blob/main/README.md)
-
 [**Gesture Control Car**](https://github.com/Iniiyavan/Gesture-Control/blob/main/README.md)
-
 [**GroomGoo**]()
-
 [**Dream Aura**]()
-
 [**Forest Fire Detection**]()
 
 ---
