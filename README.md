@@ -53,13 +53,16 @@ It ensures:
 
 ---
 
-## 🖥️ Projects & Contact
-[**Haemocross**](https://github.com/Iniiyavan/HaemoCross/blob/main/README.md)
-[**Gesture Control Car**](https://github.com/Iniiyavan/Gesture-Control/blob/main/README.md)
-[**GroomGoo**]()
-[**Dream Aura**]()
-[**Forest Fire Detection**]()
+##  🖥️ Projects
+[**Groom Goo**](https://github.com/Iniiyavan/Groom-Goo/blob/main/README.md)
 
+[**Dream Aura**](https://github.com/Iniiyavan/Dream-Aura/blob/main/README.md)
+
+[**Haemocross**](https://github.com/Iniiyavan/HaemoCross/blob/main/README.md)
+
+[**Gesture Control Car**](https://github.com/Iniiyavan/Gesture-Control/blob/main/README.md)
+
+[**Forest Fire Detection**](https://github.com/Iniiyavan/Forest-Fire-Detection)
 ---
 
 ## 👍 Follow Me
